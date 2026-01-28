@@ -45,6 +45,3 @@ This will load `house_price_bd.csv`, print dataset info to console, and display 
 ![Correlation heatmap](screenshots/heatmap.png)
 
 
----
-
-*Created by Sakhiur Rahman*
