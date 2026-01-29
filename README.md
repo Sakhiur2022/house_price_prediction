@@ -37,6 +37,13 @@ This will load `house_price_bd.csv`, print dataset info to console, and display 
 - For reproducible splits, consider adding `random_state=<int>` to `train_test_split()`.
 - The script displays plots interactively; add `plt.savefig()` calls if you want to persist figures.
 
+## Models & Results 📈
+- **Linear Regression:** R² = **0.7647027678404898**
+- **Random Forest (baseline):** R² = **0.7207878979700303**
+- **Random Forest (after hyperparameter tuning):** R² = **0.8197415546340237**
+
+
+
 ## Demo Screenshots 📷
 ### Histograms
 ![Histograms](screenshots/histogram.png)
